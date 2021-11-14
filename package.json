@@ -1,0 +1,25 @@
+{
+  "name": "accessible_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelicrf/accessible_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelicrf/accessible_web/issues"
+  },
+  "homepage": "https://github.com/angelicrf/accessible_web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "pa11y": "^6.1.0"
+  }
+}
